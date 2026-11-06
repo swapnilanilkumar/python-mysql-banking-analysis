@@ -1,0 +1,11 @@
+Rows and columns: (3000, 25)
+
+Total missing values: 0
+
+Negative amounts: 0
+Zero or negative income: 0
+Age range: 17 to 85
+
+Completely identical rows: 0
+Client IDs that appear more than once: 59
+Of these, IDs used by different people: 59
